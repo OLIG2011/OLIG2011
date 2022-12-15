@@ -2,6 +2,7 @@
 - 👀 I’m interested in Programming, Football and of course video games!
 - 🌱 I’m currently learning Python, But JavaScript Soon
 - ;) I am A Young Programmer And I am new To This World!.    well kind of
+- I Go To Gesamtschule Hohscheid At Germany  
 
 <!---
 OLIG2011/OLIG2011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
